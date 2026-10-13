@@ -51,6 +51,7 @@ Alphabetical order by category, then by name.
 | mlops | [gpustack](./mlops/gpustack/SKILL.md) | GPU cluster manager for AI model serving — deploy vLLM/SGLang/TensorRT-LLM with auto-scaling |
 | mlops | [llmfit](./mlops/llmfit/SKILL.md) | CLI tool to find which LLM models run on your local hardware (GPU/CPU/RAM detection) |
 | mlops | [token-compression](./mlops/token-compression/SKILL.md) | Compress AI agent tool outputs, logs, and RAG content — reduce token usage by 20-95% |
+| productivity | [aident-loadout](./productivity/aident-loadout/SKILL.md) | Connect agents to 1,000+ apps and 400+ Skills via remote MCP ([aident.ai](https://aident.ai)) |
 | productivity | [i-have-adhd](./productivity/i-have-adhd/SKILL.md) | ADHD-friendly output formatting — 10 rules to make AI responses actionable and scannable |
 | productivity | [worklittle-jobs-mcp](./productivity/worklittle-jobs-mcp/SKILL.md) | Worklittle Jobs MCP — search 4M+ jobs with visa/salary/distance filters, swipe to apply, create resumes & cover letters |
 
